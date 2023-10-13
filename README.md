@@ -4,4 +4,21 @@ Skin cancer is the most prevalent type of cancer, and can be deadly if left untr
 
 This repo contains:
 - FINAL_EDA.ipynb: Exploratory data analysis of ISIC Melanoma metadata and images<br>
-- FINAL ML Imaging Models.ipynb: Models and findings
+- FINAL ML Imaging Models.ipynb: Model infrastructures and findings
+
+## Requirements
+This project requires Python and the following libraries installed:
+- NumPy
+- Pandas
+- matplotlib
+- scikit-learn
+- TensorFlow
+- Keras
+
+You will also need to have software installed to run and execute a Jupyter Notebook.
+
+## Data
+The dataset used for this project was a subset of the International Skin Imaging Collaboration Challenge (ISIC 2020), which contains 33,126 dermoscopic images of skin lesions and their respective ground truth labels of being benign or malignant, from over 2,000 patients found on the [ISIC 2020 Challenge Dataset](https://challenge2020.isic-archive.com).
+
+## Contributors
+Roger Chang, Michelle Li, Yuncheng Duan, and Charlotte Roh
